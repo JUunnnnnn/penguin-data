@@ -1,0 +1,389 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<style>text{font-family:Arial,sans-serif;fill:#222}.title{font-size:23px;font-weight:bold}.subtitle{font-size:13px;fill:#555}.axis{font-size:12px}.label{font-size:15px;font-weight:bold}.legend{font-size:13px}</style>
+<rect width="900" height="620" fill="white"/>
+<text x="105" y="32" class="title">Penguin bill length and body mass</text>
+<text x="105" y="53" class="subtitle">Each point is one penguin; n = 342 (2 rows with missing plotted measurements excluded)</text>
+<line x1="105.0" y1="75" x2="105.0" y2="530" stroke="#e6e6e6"/>
+<text x="105.0" y="552" text-anchor="middle" class="axis">30</text>
+<line x1="231.7" y1="75" x2="231.7" y2="530" stroke="#e6e6e6"/>
+<text x="231.7" y="552" text-anchor="middle" class="axis">35</text>
+<line x1="358.3" y1="75" x2="358.3" y2="530" stroke="#e6e6e6"/>
+<text x="358.3" y="552" text-anchor="middle" class="axis">40</text>
+<line x1="485.0" y1="75" x2="485.0" y2="530" stroke="#e6e6e6"/>
+<text x="485.0" y="552" text-anchor="middle" class="axis">45</text>
+<line x1="611.7" y1="75" x2="611.7" y2="530" stroke="#e6e6e6"/>
+<text x="611.7" y="552" text-anchor="middle" class="axis">50</text>
+<line x1="738.3" y1="75" x2="738.3" y2="530" stroke="#e6e6e6"/>
+<text x="738.3" y="552" text-anchor="middle" class="axis">55</text>
+<line x1="865.0" y1="75" x2="865.0" y2="530" stroke="#e6e6e6"/>
+<text x="865.0" y="552" text-anchor="middle" class="axis">60</text>
+<line x1="105" y1="530.0" x2="865" y2="530.0" stroke="#e6e6e6"/>
+<text x="93" y="534.0" text-anchor="end" class="axis">2,500</text>
+<line x1="105" y1="473.1" x2="865" y2="473.1" stroke="#e6e6e6"/>
+<text x="93" y="477.1" text-anchor="end" class="axis">3,000</text>
+<line x1="105" y1="416.2" x2="865" y2="416.2" stroke="#e6e6e6"/>
+<text x="93" y="420.2" text-anchor="end" class="axis">3,500</text>
+<line x1="105" y1="359.4" x2="865" y2="359.4" stroke="#e6e6e6"/>
+<text x="93" y="363.4" text-anchor="end" class="axis">4,000</text>
+<line x1="105" y1="302.5" x2="865" y2="302.5" stroke="#e6e6e6"/>
+<text x="93" y="306.5" text-anchor="end" class="axis">4,500</text>
+<line x1="105" y1="245.6" x2="865" y2="245.6" stroke="#e6e6e6"/>
+<text x="93" y="249.6" text-anchor="end" class="axis">5,000</text>
+<line x1="105" y1="188.8" x2="865" y2="188.8" stroke="#e6e6e6"/>
+<text x="93" y="192.8" text-anchor="end" class="axis">5,500</text>
+<line x1="105" y1="131.9" x2="865" y2="131.9" stroke="#e6e6e6"/>
+<text x="93" y="135.9" text-anchor="end" class="axis">6,000</text>
+<line x1="105" y1="75.0" x2="865" y2="75.0" stroke="#e6e6e6"/>
+<text x="93" y="79.0" text-anchor="end" class="axis">6,500</text>
+<rect x="105" y="75" width="760" height="455" fill="none" stroke="#555"/>
+<circle cx="335.5" cy="387.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.1 mm, 3,750 g</title></circle>
+<circle cx="345.7" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.5 mm, 3,800 g</title></circle>
+<circle cx="365.9" cy="444.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.3 mm, 3,250 g</title></circle>
+<circle cx="274.7" cy="421.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.7 mm, 3,450 g</title></circle>
+<circle cx="340.6" cy="399.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.3 mm, 3,650 g</title></circle>
+<circle cx="330.5" cy="402.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.9 mm, 3,625 g</title></circle>
+<circle cx="338.1" cy="282.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.2 mm, 4,675 g</title></circle>
+<circle cx="208.9" cy="419.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 34.1 mm, 3,475 g</title></circle>
+<circle cx="409.0" cy="330.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.0 mm, 4,250 g</title></circle>
+<circle cx="302.6" cy="439.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.8 mm, 3,300 g</title></circle>
+<circle cx="302.6" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.8 mm, 3,700 g</title></circle>
+<circle cx="386.2" cy="450.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 3,200 g</title></circle>
+<circle cx="322.9" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.6 mm, 3,800 g</title></circle>
+<circle cx="221.5" cy="313.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 34.6 mm, 4,400 g</title></circle>
+<circle cx="272.2" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.6 mm, 3,700 g</title></circle>
+<circle cx="325.4" cy="421.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.7 mm, 3,450 g</title></circle>
+<circle cx="421.7" cy="302.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.5 mm, 4,500 g</title></circle>
+<circle cx="216.5" cy="436.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 34.4 mm, 3,325 g</title></circle>
+<circle cx="510.3" cy="336.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 46.0 mm, 4,200 g</title></circle>
+<circle cx="302.6" cy="427.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.8 mm, 3,400 g</title></circle>
+<circle cx="300.1" cy="404.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.7 mm, 3,600 g</title></circle>
+<circle cx="254.5" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.9 mm, 3,800 g</title></circle>
+<circle cx="312.7" cy="365.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.2 mm, 3,950 g</title></circle>
+<circle cx="327.9" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.8 mm, 3,800 g</title></circle>
+<circle cx="239.3" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.3 mm, 3,800 g</title></circle>
+<circle cx="373.5" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.6 mm, 3,550 g</title></circle>
+<circle cx="371.0" cy="450.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.5 mm, 3,200 g</title></circle>
+<circle cx="305.1" cy="456.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.9 mm, 3,150 g</title></circle>
+<circle cx="371.0" cy="365.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.5 mm, 3,950 g</title></circle>
+<circle cx="345.7" cy="444.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.5 mm, 3,250 g</title></circle>
+<circle cx="287.4" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.2 mm, 3,900 g</title></circle>
+<circle cx="345.7" cy="439.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.5 mm, 3,300 g</title></circle>
+<circle cx="381.1" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.9 mm, 3,900 g</title></circle>
+<circle cx="267.1" cy="436.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.4 mm, 3,325 g</title></circle>
+<circle cx="338.1" cy="342.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.2 mm, 4,150 g</title></circle>
+<circle cx="327.9" cy="365.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.8 mm, 3,950 g</title></circle>
+<circle cx="414.1" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.2 mm, 3,550 g</title></circle>
+<circle cx="297.5" cy="439.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.6 mm, 3,300 g</title></circle>
+<circle cx="353.3" cy="285.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.8 mm, 4,650 g</title></circle>
+<circle cx="269.7" cy="456.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.5 mm, 3,150 g</title></circle>
+<circle cx="378.6" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.8 mm, 3,900 g</title></circle>
+<circle cx="257.0" cy="461.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.0 mm, 3,100 g</title></circle>
+<circle cx="462.2" cy="313.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 44.1 mm, 4,400 g</title></circle>
+<circle cx="282.3" cy="473.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.0 mm, 3,000 g</title></circle>
+<circle cx="348.2" cy="291.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.6 mm, 4,600 g</title></circle>
+<circle cx="386.2" cy="424.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 3,425 g</title></circle>
+<circle cx="295.0" cy="476.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.5 mm, 2,975 g</title></circle>
+<circle cx="257.0" cy="421.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.0 mm, 3,450 g</title></circle>
+<circle cx="416.6" cy="342.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.3 mm, 4,150 g</title></circle>
+<circle cx="348.2" cy="416.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.6 mm, 3,500 g</title></circle>
+<circle cx="360.9" cy="325.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.1 mm, 4,300 g</title></circle>
+<circle cx="231.7" cy="421.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.0 mm, 3,450 g</title></circle>
+<circle cx="409.0" cy="353.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.0 mm, 4,050 g</title></circle>
+<circle cx="219.0" cy="484.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 34.5 mm, 2,900 g</title></circle>
+<circle cx="393.8" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.4 mm, 3,700 g</title></circle>
+<circle cx="333.0" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.0 mm, 3,550 g</title></circle>
+<circle cx="373.5" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.6 mm, 3,800 g</title></circle>
+<circle cx="269.7" cy="490.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.5 mm, 2,850 g</title></circle>
+<circle cx="297.5" cy="387.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.6 mm, 3,750 g</title></circle>
+<circle cx="249.4" cy="456.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.7 mm, 3,150 g</title></circle>
+<circle cx="391.3" cy="313.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.3 mm, 4,400 g</title></circle>
+<circle cx="297.5" cy="404.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.6 mm, 3,600 g</title></circle>
+<circle cx="386.2" cy="353.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 4,050 g</title></circle>
+<circle cx="267.1" cy="490.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.4 mm, 2,850 g</title></circle>
+<circle cx="398.9" cy="365.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.6 mm, 3,950 g</title></circle>
+<circle cx="244.3" cy="433.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.5 mm, 3,350 g</title></circle>
+<circle cx="386.2" cy="348.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 4,100 g</title></circle>
+<circle cx="254.5" cy="467.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.9 mm, 3,050 g</title></circle>
+<circle cx="403.9" cy="308.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.8 mm, 4,450 g</title></circle>
+<circle cx="193.7" cy="404.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 33.5 mm, 3,600 g</title></circle>
+<circle cx="350.7" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.7 mm, 3,900 g</title></circle>
+<circle cx="348.2" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.6 mm, 3,550 g</title></circle>
+<circle cx="505.3" cy="342.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 45.8 mm, 4,150 g</title></circle>
+<circle cx="244.3" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.5 mm, 3,700 g</title></circle>
+<circle cx="429.3" cy="330.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.8 mm, 4,250 g</title></circle>
+<circle cx="381.1" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.9 mm, 3,700 g</title></circle>
+<circle cx="287.4" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.2 mm, 3,900 g</title></circle>
+<circle cx="262.1" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.2 mm, 3,550 g</title></circle>
+<circle cx="411.5" cy="359.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.1 mm, 4,000 g</title></circle>
+<circle cx="221.5" cy="450.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 34.6 mm, 3,200 g</title></circle>
+<circle cx="431.8" cy="279.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.9 mm, 4,700 g</title></circle>
+<circle cx="274.7" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.7 mm, 3,800 g</title></circle>
+<circle cx="234.2" cy="336.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.1 mm, 4,200 g</title></circle>
+<circle cx="289.9" cy="433.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.3 mm, 3,350 g</title></circle>
+<circle cx="391.3" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.3 mm, 3,550 g</title></circle>
+<circle cx="264.6" cy="382.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.3 mm, 3,800 g</title></circle>
+<circle cx="279.8" cy="416.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.9 mm, 3,500 g</title></circle>
+<circle cx="315.3" cy="365.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.3 mm, 3,950 g</title></circle>
+<circle cx="330.5" cy="404.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.9 mm, 3,600 g</title></circle>
+<circle cx="249.4" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.7 mm, 3,550 g</title></circle>
+<circle cx="386.2" cy="325.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 4,300 g</title></circle>
+<circle cx="206.3" cy="427.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 34.0 mm, 3,400 g</title></circle>
+<circle cx="348.2" cy="308.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.6 mm, 4,450 g</title></circle>
+<circle cx="262.1" cy="439.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.2 mm, 3,300 g</title></circle>
+<circle cx="378.6" cy="325.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.8 mm, 4,300 g</title></circle>
+<circle cx="310.2" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.1 mm, 3,700 g</title></circle>
+<circle cx="365.9" cy="319.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.3 mm, 4,350 g</title></circle>
+<circle cx="183.5" cy="484.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 33.1 mm, 2,900 g</title></circle>
+<circle cx="439.4" cy="348.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 43.2 mm, 4,100 g</title></circle>
+<circle cx="231.7" cy="390.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.0 mm, 3,725 g</title></circle>
+<circle cx="383.7" cy="276.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.0 mm, 4,725 g</title></circle>
+<circle cx="300.1" cy="464.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.7 mm, 3,075 g</title></circle>
+<circle cx="302.6" cy="330.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.8 mm, 4,250 g</title></circle>
+<circle cx="305.1" cy="481.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.9 mm, 2,925 g</title></circle>
+<circle cx="350.7" cy="410.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.7 mm, 3,550 g</title></circle>
+<circle cx="322.9" cy="387.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.6 mm, 3,750 g</title></circle>
+<circle cx="312.7" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.2 mm, 3,900 g</title></circle>
+<circle cx="310.2" cy="453.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.1 mm, 3,175 g</title></circle>
+<circle cx="439.4" cy="271.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 43.2 mm, 4,775 g</title></circle>
+<circle cx="310.2" cy="379.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.1 mm, 3,825 g</title></circle>
+<circle cx="500.2" cy="291.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 45.6 mm, 4,600 g</title></circle>
+<circle cx="350.7" cy="450.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.7 mm, 3,200 g</title></circle>
+<circle cx="414.1" cy="328.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.2 mm, 4,275 g</title></circle>
+<circle cx="348.2" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.6 mm, 3,900 g</title></circle>
+<circle cx="426.7" cy="350.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 42.7 mm, 4,075 g</title></circle>
+<circle cx="322.9" cy="484.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.6 mm, 2,900 g</title></circle>
+<circle cx="289.9" cy="385.0" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.3 mm, 3,775 g</title></circle>
+<circle cx="249.4" cy="433.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.7 mm, 3,350 g</title></circle>
+<circle cx="386.2" cy="436.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 3,325 g</title></circle>
+<circle cx="262.1" cy="456.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.2 mm, 3,150 g</title></circle>
+<circle cx="300.1" cy="416.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.7 mm, 3,500 g</title></circle>
+<circle cx="363.4" cy="421.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.2 mm, 3,450 g</title></circle>
+<circle cx="393.8" cy="373.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.4 mm, 3,875 g</title></circle>
+<circle cx="236.7" cy="467.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.2 mm, 3,050 g</title></circle>
+<circle cx="373.5" cy="359.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.6 mm, 4,000 g</title></circle>
+<circle cx="327.9" cy="441.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.8 mm, 3,275 g</title></circle>
+<circle cx="396.3" cy="325.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.5 mm, 4,300 g</title></circle>
+<circle cx="333.0" cy="467.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.0 mm, 3,050 g</title></circle>
+<circle cx="462.2" cy="359.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 44.1 mm, 4,000 g</title></circle>
+<circle cx="320.3" cy="436.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.5 mm, 3,325 g</title></circle>
+<circle cx="436.9" cy="416.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 43.1 mm, 3,500 g</title></circle>
+<circle cx="277.3" cy="416.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.8 mm, 3,500 g</title></circle>
+<circle cx="295.0" cy="305.3" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.5 mm, 4,475 g</title></circle>
+<circle cx="310.2" cy="424.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 38.1 mm, 3,425 g</title></circle>
+<circle cx="386.2" cy="370.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.1 mm, 3,900 g</title></circle>
+<circle cx="246.9" cy="453.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 35.6 mm, 3,175 g</title></circle>
+<circle cx="363.4" cy="362.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.2 mm, 3,975 g</title></circle>
+<circle cx="282.3" cy="427.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.0 mm, 3,400 g</title></circle>
+<circle cx="350.7" cy="330.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.7 mm, 4,250 g</title></circle>
+<circle cx="363.4" cy="427.6" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.2 mm, 3,400 g</title></circle>
+<circle cx="373.5" cy="419.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.6 mm, 3,475 g</title></circle>
+<circle cx="158.2" cy="467.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 32.1 mm, 3,050 g</title></circle>
+<circle cx="376.1" cy="390.7" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 40.7 mm, 3,725 g</title></circle>
+<circle cx="289.9" cy="473.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.3 mm, 3,000 g</title></circle>
+<circle cx="333.0" cy="399.2" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.0 mm, 3,650 g</title></circle>
+<circle cx="338.1" cy="330.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 39.2 mm, 4,250 g</title></circle>
+<circle cx="272.2" cy="419.1" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.6 mm, 3,475 g</title></circle>
+<circle cx="257.0" cy="421.9" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.0 mm, 3,450 g</title></circle>
+<circle cx="302.6" cy="387.8" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 37.8 mm, 3,750 g</title></circle>
+<circle cx="257.0" cy="393.5" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 36.0 mm, 3,700 g</title></circle>
+<circle cx="396.3" cy="359.4" r="4" fill="#2878b5" fill-opacity=".72"><title>Adelie: 41.5 mm, 4,000 g</title></circle>
+<circle cx="512.9" cy="302.5" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.1 mm, 4,500 g</title></circle>
+<circle cx="611.7" cy="166.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.0 mm, 5,700 g</title></circle>
+<circle cx="578.7" cy="308.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.7 mm, 4,450 g</title></circle>
+<circle cx="611.7" cy="166.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.0 mm, 5,700 g</title></circle>
+<circle cx="550.9" cy="200.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.6 mm, 5,400 g</title></circle>
+<circle cx="523.0" cy="296.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.5 mm, 4,550 g</title></circle>
+<circle cx="495.1" cy="268.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.4 mm, 4,800 g</title></circle>
+<circle cx="528.1" cy="222.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.7 mm, 5,200 g</title></circle>
+<circle cx="441.9" cy="313.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.3 mm, 4,400 g</title></circle>
+<circle cx="530.6" cy="228.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.8 mm, 5,150 g</title></circle>
+<circle cx="381.1" cy="285.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 40.9 mm, 4,650 g</title></circle>
+<circle cx="586.3" cy="183.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.0 mm, 5,550 g</title></circle>
+<circle cx="497.7" cy="285.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.5 mm, 4,650 g</title></circle>
+<circle cx="571.1" cy="148.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.4 mm, 5,850 g</title></circle>
+<circle cx="505.3" cy="336.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.8 mm, 4,200 g</title></circle>
+<circle cx="593.9" cy="148.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.3 mm, 5,850 g</title></circle>
+<circle cx="409.0" cy="342.3" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 42.0 mm, 4,150 g</title></circle>
+<circle cx="591.4" cy="97.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.2 mm, 6,300 g</title></circle>
+<circle cx="515.4" cy="268.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.2 mm, 4,800 g</title></circle>
+<circle cx="578.7" cy="205.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.7 mm, 5,350 g</title></circle>
+<circle cx="616.7" cy="166.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.2 mm, 5,700 g</title></circle>
+<circle cx="487.5" cy="245.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.1 mm, 5,000 g</title></circle>
+<circle cx="523.0" cy="313.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.5 mm, 4,400 g</title></circle>
+<circle cx="517.9" cy="239.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.3 mm, 5,050 g</title></circle>
+<circle cx="431.8" cy="245.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 42.9 mm, 5,000 g</title></circle>
+<circle cx="512.9" cy="234.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.1 mm, 5,100 g</title></circle>
+<circle cx="472.3" cy="348.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.5 mm, 4,100 g</title></circle>
+<circle cx="555.9" cy="171.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.8 mm, 5,650 g</title></circle>
+<circle cx="566.1" cy="291.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.2 mm, 4,600 g</title></circle>
+<circle cx="611.7" cy="183.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.0 mm, 5,550 g</title></circle>
+<circle cx="543.3" cy="217.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.3 mm, 5,250 g</title></circle>
+<circle cx="429.3" cy="279.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 42.8 mm, 4,700 g</title></circle>
+<circle cx="487.5" cy="239.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.1 mm, 5,050 g</title></circle>
+<circle cx="854.9" cy="126.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 59.6 mm, 6,050 g</title></circle>
+<circle cx="588.9" cy="228.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.1 mm, 5,150 g</title></circle>
+<circle cx="571.1" cy="200.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.4 mm, 5,400 g</title></circle>
+<circle cx="424.2" cy="251.3" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 42.6 mm, 4,950 g</title></circle>
+<circle cx="469.8" cy="217.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.4 mm, 5,250 g</title></circle>
+<circle cx="459.7" cy="319.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.0 mm, 4,350 g</title></circle>
+<circle cx="578.7" cy="205.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.7 mm, 5,350 g</title></circle>
+<circle cx="426.7" cy="365.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 42.7 mm, 3,950 g</title></circle>
+<circle cx="601.5" cy="166.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.6 mm, 5,700 g</title></circle>
+<circle cx="492.6" cy="325.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.3 mm, 4,300 g</title></circle>
+<circle cx="601.5" cy="274.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.6 mm, 4,750 g</title></circle>
+<circle cx="624.3" cy="183.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.5 mm, 5,550 g</title></circle>
+<circle cx="449.5" cy="257.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.6 mm, 4,900 g</title></circle>
+<circle cx="497.7" cy="336.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.5 mm, 4,200 g</title></circle>
+<circle cx="624.3" cy="200.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.5 mm, 5,400 g</title></circle>
+<circle cx="482.5" cy="234.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.9 mm, 5,100 g</title></circle>
+<circle cx="490.1" cy="211.5" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.2 mm, 5,300 g</title></circle>
+<circle cx="525.5" cy="262.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.6 mm, 4,850 g</title></circle>
+<circle cx="573.7" cy="211.5" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.5 mm, 5,300 g</title></circle>
+<circle cx="487.5" cy="313.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.1 mm, 4,400 g</title></circle>
+<circle cx="614.2" cy="245.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.1 mm, 5,000 g</title></circle>
+<circle cx="523.0" cy="257.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.5 mm, 4,900 g</title></circle>
+<circle cx="485.0" cy="239.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.0 mm, 5,050 g</title></circle>
+<circle cx="454.6" cy="325.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.8 mm, 4,300 g</title></circle>
+<circle cx="497.7" cy="245.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.5 mm, 5,000 g</title></circle>
+<circle cx="439.4" cy="308.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.2 mm, 4,450 g</title></circle>
+<circle cx="621.8" cy="183.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.4 mm, 5,550 g</title></circle>
+<circle cx="492.6" cy="336.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.3 mm, 4,200 g</title></circle>
+<circle cx="515.4" cy="211.5" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.2 mm, 5,300 g</title></circle>
+<circle cx="502.7" cy="313.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.7 mm, 4,400 g</title></circle>
+<circle cx="720.6" cy="171.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 54.3 mm, 5,650 g</title></circle>
+<circle cx="505.3" cy="279.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.8 mm, 4,700 g</title></circle>
+<circle cx="606.6" cy="166.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.8 mm, 5,700 g</title></circle>
+<circle cx="515.4" cy="285.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.2 mm, 4,650 g</title></circle>
+<circle cx="599.0" cy="154.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.5 mm, 5,800 g</title></circle>
+<circle cx="447.0" cy="279.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.5 mm, 4,700 g</title></circle>
+<circle cx="629.4" cy="183.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.7 mm, 5,550 g</title></circle>
+<circle cx="553.4" cy="274.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.7 mm, 4,750 g</title></circle>
+<circle cx="520.5" cy="245.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.4 mm, 5,000 g</title></circle>
+<circle cx="566.1" cy="234.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.2 mm, 5,100 g</title></circle>
+<circle cx="523.0" cy="222.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.5 mm, 5,200 g</title></circle>
+<circle cx="520.5" cy="279.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.4 mm, 4,700 g</title></circle>
+<circle cx="576.2" cy="154.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.6 mm, 5,800 g</title></circle>
+<circle cx="548.3" cy="291.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.5 mm, 4,600 g</title></circle>
+<circle cx="639.5" cy="131.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 51.1 mm, 6,000 g</title></circle>
+<circle cx="490.1" cy="274.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.2 mm, 4,750 g</title></circle>
+<circle cx="490.1" cy="137.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.2 mm, 5,950 g</title></circle>
+<circle cx="588.9" cy="288.3" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.1 mm, 4,625 g</title></circle>
+<circle cx="675.0" cy="194.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 52.5 mm, 5,450 g</title></circle>
+<circle cx="545.8" cy="276.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.4 mm, 4,725 g</title></circle>
+<circle cx="611.7" cy="205.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.0 mm, 5,350 g</title></circle>
+<circle cx="482.5" cy="274.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.9 mm, 4,750 g</title></circle>
+<circle cx="631.9" cy="177.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.8 mm, 5,600 g</title></circle>
+<circle cx="444.5" cy="291.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.4 mm, 4,600 g</title></circle>
+<circle cx="644.6" cy="211.5" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 51.3 mm, 5,300 g</title></circle>
+<circle cx="548.3" cy="259.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.5 mm, 4,875 g</title></circle>
+<circle cx="664.9" cy="183.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 52.1 mm, 5,550 g</title></circle>
+<circle cx="548.3" cy="251.3" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.5 mm, 4,950 g</title></circle>
+<circle cx="667.4" cy="200.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 52.2 mm, 5,400 g</title></circle>
+<circle cx="497.7" cy="274.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.5 mm, 4,750 g</title></circle>
+<circle cx="599.0" cy="171.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.5 mm, 5,650 g</title></circle>
+<circle cx="472.3" cy="262.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.5 mm, 4,850 g</title></circle>
+<circle cx="631.9" cy="222.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.8 mm, 5,200 g</title></circle>
+<circle cx="596.5" cy="254.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.4 mm, 4,925 g</title></circle>
+<circle cx="533.1" cy="259.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.9 mm, 4,875 g</title></circle>
+<circle cx="571.1" cy="288.3" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.4 mm, 4,625 g</title></circle>
+<circle cx="639.5" cy="217.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 51.1 mm, 5,250 g</title></circle>
+<circle cx="573.7" cy="262.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.5 mm, 4,850 g</title></circle>
+<circle cx="761.1" cy="177.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 55.9 mm, 5,600 g</title></circle>
+<circle cx="540.7" cy="248.5" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.2 mm, 4,975 g</title></circle>
+<circle cx="588.9" cy="188.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.1 mm, 5,500 g</title></circle>
+<circle cx="543.3" cy="276.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.3 mm, 4,725 g</title></circle>
+<circle cx="530.6" cy="188.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.8 mm, 5,500 g</title></circle>
+<circle cx="401.4" cy="279.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 41.7 mm, 4,700 g</title></circle>
+<circle cx="697.8" cy="188.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 53.4 mm, 5,500 g</title></circle>
+<circle cx="441.9" cy="294.0" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.3 mm, 4,575 g</title></circle>
+<circle cx="563.5" cy="188.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.1 mm, 5,500 g</title></circle>
+<circle cx="624.3" cy="245.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.5 mm, 5,000 g</title></circle>
+<circle cx="606.6" cy="137.6" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.8 mm, 5,950 g</title></circle>
+<circle cx="447.0" cy="285.4" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 43.5 mm, 4,650 g</title></circle>
+<circle cx="649.7" cy="188.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 51.5 mm, 5,500 g</title></circle>
+<circle cx="515.4" cy="316.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.2 mm, 4,375 g</title></circle>
+<circle cx="740.9" cy="148.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 55.1 mm, 5,850 g</title></circle>
+<circle cx="472.3" cy="259.8" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 44.5 mm, 4,875 g</title></circle>
+<circle cx="581.3" cy="131.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 48.8 mm, 6,000 g</title></circle>
+<circle cx="540.7" cy="254.2" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 47.2 mm, 4,925 g</title></circle>
+<circle cx="530.6" cy="262.7" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 46.8 mm, 4,850 g</title></circle>
+<circle cx="621.8" cy="160.3" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 50.4 mm, 5,750 g</title></circle>
+<circle cx="490.1" cy="222.9" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 45.2 mm, 5,200 g</title></circle>
+<circle cx="609.1" cy="200.1" r="4" fill="#3ca370" fill-opacity=".72"><title>Gentoo: 49.9 mm, 5,400 g</title></circle>
+<circle cx="523.0" cy="416.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.5 mm, 3,500 g</title></circle>
+<circle cx="611.7" cy="370.8" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.0 mm, 3,900 g</title></circle>
+<circle cx="644.6" cy="399.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.3 mm, 3,650 g</title></circle>
+<circle cx="495.1" cy="413.4" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.4 mm, 3,525 g</title></circle>
+<circle cx="680.1" cy="390.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 52.7 mm, 3,725 g</title></circle>
+<circle cx="490.1" cy="365.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.2 mm, 3,950 g</title></circle>
+<circle cx="512.9" cy="444.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.1 mm, 3,250 g</title></circle>
+<circle cx="644.6" cy="387.8" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.3 mm, 3,750 g</title></circle>
+<circle cx="510.3" cy="342.3" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.0 mm, 4,150 g</title></circle>
+<circle cx="644.6" cy="393.5" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.3 mm, 3,700 g</title></circle>
+<circle cx="525.5" cy="382.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.6 mm, 3,800 g</title></circle>
+<circle cx="654.7" cy="385.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.7 mm, 3,775 g</title></circle>
+<circle cx="535.7" cy="393.5" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 47.0 mm, 3,700 g</title></circle>
+<circle cx="662.3" cy="353.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 52.0 mm, 4,050 g</title></circle>
+<circle cx="507.8" cy="407.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.9 mm, 3,575 g</title></circle>
+<circle cx="624.3" cy="353.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.5 mm, 4,050 g</title></circle>
+<circle cx="619.3" cy="439.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.3 mm, 3,300 g</title></circle>
+<circle cx="814.3" cy="393.5" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 58.0 mm, 3,700 g</title></circle>
+<circle cx="520.5" cy="421.9" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.4 mm, 3,450 g</title></circle>
+<circle cx="591.4" cy="313.9" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.2 mm, 4,400 g</title></circle>
+<circle cx="419.1" cy="404.9" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 42.4 mm, 3,600 g</title></circle>
+<circle cx="573.7" cy="427.6" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 48.5 mm, 3,400 g</title></circle>
+<circle cx="439.4" cy="484.5" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 43.2 mm, 2,900 g</title></circle>
+<circle cx="626.9" cy="382.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.6 mm, 3,800 g</title></circle>
+<circle cx="528.1" cy="439.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.7 mm, 3,300 g</title></circle>
+<circle cx="662.3" cy="342.3" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 52.0 mm, 4,150 g</title></circle>
+<circle cx="624.3" cy="427.6" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.5 mm, 3,400 g</title></circle>
+<circle cx="599.0" cy="382.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.5 mm, 3,800 g</title></circle>
+<circle cx="520.5" cy="393.5" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.4 mm, 3,700 g</title></circle>
+<circle cx="682.6" cy="296.8" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 52.8 mm, 4,550 g</title></circle>
+<circle cx="381.1" cy="450.4" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 40.9 mm, 3,200 g</title></circle>
+<circle cx="718.1" cy="325.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 54.2 mm, 4,300 g</title></circle>
+<circle cx="421.7" cy="433.3" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 42.5 mm, 3,350 g</title></circle>
+<circle cx="637.0" cy="348.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.0 mm, 4,100 g</title></circle>
+<circle cx="604.1" cy="404.9" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.7 mm, 3,600 g</title></circle>
+<circle cx="548.3" cy="370.8" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 47.5 mm, 3,900 g</title></circle>
+<circle cx="550.9" cy="376.4" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 47.6 mm, 3,850 g</title></circle>
+<circle cx="662.3" cy="268.4" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 52.0 mm, 4,800 g</title></circle>
+<circle cx="533.1" cy="507.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.9 mm, 2,700 g</title></circle>
+<circle cx="700.3" cy="302.5" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 53.5 mm, 4,500 g</title></circle>
+<circle cx="586.3" cy="365.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.0 mm, 3,950 g</title></circle>
+<circle cx="515.4" cy="399.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.2 mm, 3,650 g</title></circle>
+<circle cx="634.5" cy="410.6" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.9 mm, 3,550 g</title></circle>
+<circle cx="497.7" cy="416.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.5 mm, 3,500 g</title></circle>
+<circle cx="634.5" cy="396.3" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.9 mm, 3,675 g</title></circle>
+<circle cx="631.9" cy="308.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.8 mm, 4,450 g</title></circle>
+<circle cx="614.2" cy="427.6" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.1 mm, 3,400 g</title></circle>
+<circle cx="586.3" cy="325.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.0 mm, 4,300 g</title></circle>
+<circle cx="649.7" cy="444.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.5 mm, 3,250 g</title></circle>
+<circle cx="606.6" cy="396.3" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.8 mm, 3,675 g</title></circle>
+<circle cx="563.5" cy="436.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 48.1 mm, 3,325 g</title></circle>
+<circle cx="647.1" cy="365.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.4 mm, 3,950 g</title></circle>
+<circle cx="502.7" cy="404.9" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.7 mm, 3,600 g</title></circle>
+<circle cx="629.4" cy="353.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.7 mm, 4,050 g</title></circle>
+<circle cx="421.7" cy="433.3" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 42.5 mm, 3,350 g</title></circle>
+<circle cx="667.4" cy="421.9" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 52.2 mm, 3,450 g</title></circle>
+<circle cx="490.1" cy="444.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.2 mm, 3,250 g</title></circle>
+<circle cx="593.9" cy="353.7" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.3 mm, 4,050 g</title></circle>
+<circle cx="616.7" cy="382.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.2 mm, 3,800 g</title></circle>
+<circle cx="500.2" cy="413.4" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.6 mm, 3,525 g</title></circle>
+<circle cx="659.8" cy="365.1" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 51.9 mm, 3,950 g</title></circle>
+<circle cx="530.6" cy="399.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 46.8 mm, 3,650 g</title></circle>
+<circle cx="502.7" cy="399.2" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 45.7 mm, 3,650 g</title></circle>
+<circle cx="758.6" cy="359.4" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 55.8 mm, 4,000 g</title></circle>
+<circle cx="447.0" cy="427.6" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 43.5 mm, 3,400 g</title></circle>
+<circle cx="601.5" cy="385.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 49.6 mm, 3,775 g</title></circle>
+<circle cx="631.9" cy="348.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.8 mm, 4,100 g</title></circle>
+<circle cx="616.7" cy="385.0" r="4" fill="#e07a22" fill-opacity=".72"><title>Chinstrap: 50.2 mm, 3,775 g</title></circle>
+<text x="485.0" y="595" text-anchor="middle" class="label">Bill length (mm)</text>
+<text x="25" y="302.5" text-anchor="middle" class="label" transform="rotate(-90 25 302.5)">Body mass (g)</text>
+<circle cx="560" cy="35" r="5" fill="#2878b5"/>
+<text x="569" y="39" class="legend">Adelie</text>
+<circle cx="665" cy="35" r="5" fill="#e07a22"/>
+<text x="674" y="39" class="legend">Chinstrap</text>
+<circle cx="770" cy="35" r="5" fill="#3ca370"/>
+<text x="779" y="39" class="legend">Gentoo</text>
+</svg>
